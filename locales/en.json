@@ -1,0 +1,12 @@
+{
+	"description": "**Please select from menu**",
+	"embed": "**Done created option in menu successfully** ✅",
+	"languageChanged": "**language changed to english successfully ✅**",
+	"option": "select an option",
+	"permission": "** Nah you dont have permissions sorry😒**",
+	"nodata": "** No menu data found for this server. 😒**",
+	"nochoose": "** Please provide a language option. 😒**",
+	"invalidLanguage": "**invalidLanguage write like arabic or english ****" , 
+	"menu": "** choose from menu 😒**" 
+
+}
